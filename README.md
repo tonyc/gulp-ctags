@@ -46,6 +46,12 @@ API
   whether progress bar is shown or not.
   default value is ``true``.
 
+- options.cmd: String
+
+  The 'ctags' command to execute. Change this if you
+  need to use a different command name, e.g. 'jsctags'
+  default value is ``ctags``.
+
 License
 -------
 
